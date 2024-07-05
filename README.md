@@ -1,3 +1,9 @@
-# Arm on GKE
+# Archived
 
-This repo contains code examples of how to use Arm on GKE. Each folder represents a different use case.
+This repository has been archived. Please see the
+[Google Kubernetes Engine (GKE) Samples repository](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/tree/main/workloads/migrate-x86-app-to-multi-arch)
+instead.
+
+## Disclaimer
+
+This is not an officially supported Google product.
